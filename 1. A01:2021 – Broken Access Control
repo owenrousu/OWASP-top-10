@@ -1,1 +1,5 @@
+<h2>A01:2021 – Broken Access Control</h2>
+<p> What is Broken Access Control? In simple terms Broken Access Control is when a user is able to perform an action outside of the user's limits or permissions.</p>
+<h5> An Example of Broken Access Control</p<
+<p> A use able to force broker can force browse to a website admin page by changing the url to https://example.com/about/admin_page. If the admin_page does not have the proper Permission set correctly a user can simply force browse to the page.</p>
 
